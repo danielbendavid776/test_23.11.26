@@ -1,0 +1,30 @@
+Q 1:
+1) where is used to filter rows before grouping the data, having filter after performing group by
+
+Q 2:
+1) left join returns all records from the left table and only the matching records from the right table,
+while right join does the opposite
+
+Q 3:
+2) it filters and returns only unique values, eliminating duplicates from each column
+
+Q 4:
+2) using limit
+
+Q 5:
+1) it creates a relationship between tables to maintain data integrity
+
+Q 6:
+4) there is no effect the child records nust be deleted manually
+
+Q 7:
+4) counts only non - null values
+
+Q 8:
+1) sets a default value for a column if no value is provided
+
+Q 9:
+4) full other join
+
+Q 10:
+1) prevents invalid values from being entered into a sensitive column
